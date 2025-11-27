@@ -70,7 +70,7 @@ pip install cryptography
 
 Execute o simulador:
 ```
-python ransomware_sim.py
+python ransomware.py
 ```
 
 Siga o menu interativo no terminal.
